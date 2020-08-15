@@ -30,13 +30,6 @@ To continue bringing you the best service, hardware, and connectivity, IBM infra
 
 This topic includes answers to commonly asked questions about migrating from VPC (Gen 1) to VPC (Gen 2).
 
-## When do I need to be fully migrated?
-{: #migrating-faqs-when}
-
-Migrations must be completed by the end of 2020.  The fastest way to do this is to use a vendor that IBM has engaged who will work with you to provide a migration path specific to your infrastructure.  Contact your IBM representative for more information.
-
-You can also choose to perform this migration with your own resources following the steps in our docs. If you choose to complete this migration, refer to [Instructions for Migrating from VPC (Gen 1) to VPC (Gen 2)](/docs/vpc-on-classic?topic=vpc-on-classic-migrating-vpc).
-
 ## Will I need to migrate my resources in the future (subsequent to this migration)?
 {: #migrating-faqs-migrate-again}
 
